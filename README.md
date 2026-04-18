@@ -1,4 +1,4 @@
-Two computer vision projects built with Python and OpenCV — an Eye Exercise Program and an Eye-Controlled Mouse — developed while learning real-time facial landmark detection and iris tracking.
+Two computer vision projects built with Python and OpenCV an Eye Exercise Program and an Eye-Controlled Mouse developed while learning real-time facial landmark detection and iris tracking.
 
 Projects
 
